@@ -15,6 +15,6 @@ This will open a new tab and present you with the Azure custom deplyoment page.\
 
 4. First you have to select an existing resource group or create a new one. Give a name to your deyploment.
 This name will determined the URL of the webpage of your kiri deployment. For exaple you you set the name to kiritest the final URL will be https://kiritest.azurewebsites.net.
-<img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/azdeploy1.PNG?raw=true">  
+<img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/azdeploy1.jpg?raw=true">  
 
 5. Test
