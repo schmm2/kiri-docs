@@ -2,6 +2,6 @@
 
 * [Home](/)
 * [Installation](installation.md)
-* [First steps](gettingstarted.md)
+* [Getting started](gettingstarted.md)
 * [Update](update.md)
 * [Architecture](architecture.md)
