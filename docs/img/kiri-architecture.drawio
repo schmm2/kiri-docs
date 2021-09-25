@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-25T19:28:48.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="a3Hj6Bg9RY9Fe9DVY7pW" version="15.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-25T19:29:01.567Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="EZuoUqeXmxC9CMItoykP" version="15.3.2" type="github">
   <diagram id="YGflYH7S-0JcMB-x-eqp" name="Page-1">
     <mxGraphModel dx="1865" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         </mxCell>
         <mxCell id="cDFif1h-3yhL70TAoYYn-6" value="&lt;p style=&quot;line-height: 140%&quot;&gt;&amp;nbsp; Store &amp;amp; Retrieve Secretcs&amp;nbsp;&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0DDxzS_s1WOMT-R_WDR--30">
           <mxGeometry x="-0.0936" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="6" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
