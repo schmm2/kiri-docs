@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-25T19:45:45.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="WUHqGmUgJn-kH544U6OA" version="15.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-25T19:57:48.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="G0DO8D4E6Wk3720qZkxe" version="15.3.2" type="github">
   <diagram id="YGflYH7S-0JcMB-x-eqp" name="Page-1">
     <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,36 +105,6 @@
         </mxCell>
         <mxCell id="cDFif1h-3yhL70TAoYYn-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0DDxzS_s1WOMT-R_WDR--13" target="0DDxzS_s1WOMT-R_WDR--16">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cDFif1h-3yhL70TAoYYn-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="371" y="60" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="cDFif1h-3yhL70TAoYYn-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;" vertex="1" parent="cDFif1h-3yhL70TAoYYn-11">
-          <mxGeometry width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="cDFif1h-3yhL70TAoYYn-10" value="kiri-backend&lt;br&gt;Git Repository" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="cDFif1h-3yhL70TAoYYn-11">
-          <mxGeometry x="50" y="30" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="cDFif1h-3yhL70TAoYYn-14" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="677" y="60" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="cDFif1h-3yhL70TAoYYn-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;" vertex="1" parent="cDFif1h-3yhL70TAoYYn-14">
-          <mxGeometry width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="cDFif1h-3yhL70TAoYYn-16" value="kiri-app&lt;br&gt;Git Repository" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="cDFif1h-3yhL70TAoYYn-14">
-          <mxGeometry x="50" y="30" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="cDFif1h-3yhL70TAoYYn-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cDFif1h-3yhL70TAoYYn-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="751.5" y="210" as="sourcePoint" />
-            <mxPoint x="752" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cDFif1h-3yhL70TAoYYn-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cDFif1h-3yhL70TAoYYn-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="717" y="220" as="sourcePoint" />
-            <mxPoint x="446" y="280" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
