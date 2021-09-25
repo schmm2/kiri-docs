@@ -4,4 +4,4 @@
 * [Installation](installation.md)
 <!--* [First steps](first-steps.md)-->
 * [Update](update.md)
-<!--* [Architecture](architecture.md)-->
+* [Architecture](architecture.md)
