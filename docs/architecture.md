@@ -2,13 +2,14 @@
 
 ## Azure
 
-On the following diagram are all components which will be deployed to Azure. Those components are all needed for kiri to function. The Git repositories are stored on Github.
+On the following diagram are all components which will be deployed to Azure. Those components are all needed for kiri to function. 
 
 <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/kiri-architecture.jpg?raw=true">  
 
 ## Code
 
-The kiri project codebase is separated into several repositories
+The kiri project codebase is separated into several repositories.  
+The Git repositories are stored on Github.
 
 - Frontend Application [kiri-app](https://github.com/schmm2/kiri-app)
 - Backend Function App [kiri-backend](https://github.com/schmm2/kiri-backend)
