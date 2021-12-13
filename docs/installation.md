@@ -52,26 +52,26 @@ This site will guide you through the process of installing kiri in your environm
 
    Review your Settings and then click on create. Let the magic happen. Sit back and relax this stept will take some time up to 15min in my experience.
 
-9. The only thing you must do manually (because I do not yet know how to automate this step) is to allow requests to the backend via Frontend Access Token. Sound complicated... it actually is. But easy to setup.
+9. The only thing you must do manually (because I do not yet know how to automate this step) is to allow requests to the backend via Frontend Access Token. Sounds complicated... its actually pretty easy to setup. Follow these steps:
 
    1. Go to the [Azure Portal](https://portal.azure.com)
    2. Go to Application Registration and search **svc-kiriapp**
 
    <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/permissionimpersonation1.PNG?raw=true">
 
-   3. Select API Permissions
+   1. Select API Permissions
 
    <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/permissionimpersonation2.PNG?raw=true">
 
-   4. Select organization api, search for **svc-kiriapi**
+   1. Select organization api, search for **svc-kiriapi**
 
    <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/permissionimpersonation3.PNG?raw=true">
 
-   5. Select **user_impersonation**
+   1. Select **user_impersonation**
 
    <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/permissionimpersonation4.PNG.png?raw=true">
 
-   6. Select **Grant for yourdomain**
+   1. Select **Grant for yourdomain**
 
    <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/permissionimpersonation6.PNG.png?raw=true">
 
