@@ -6,7 +6,7 @@ Your kiri installation is running. Let's get you started.
 
 2. Login
 
-   <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/firststeps.JPG?raw=true">
+   <img width=300px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/firststeps.JPG?raw=true">
 
 3. Go to Tenants, select **+ Add Tenant**
 
