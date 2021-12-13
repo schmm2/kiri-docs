@@ -55,6 +55,7 @@ This site will guide you through the process of installing kiri in your environm
 9. The only thing you must do manually (because I do not yet know how to automate this step) is to allow requests to the backend via Frontend Access Token. Sounds complicated... its actually pretty easy to setup. Follow these steps:
 
    1. Go to the [Azure Portal](https://portal.azure.com)
+
    2. Go to Application Registration and search **svc-kiriapp**. Select the App.
 
        <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/permissionimpersonation1.PNG?raw=true">
