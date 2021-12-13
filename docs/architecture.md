@@ -11,9 +11,7 @@ On the following diagram are all components which will be deployed to Azure. Tho
 During the setup, 3 App Registrations will be created.
 
 - svc-kiriapp: Manages the login to kiri
-
 - svc-kiriapi: Grants Access to backend API
-
 - svc-kiriworker: App which is used to interact with tenants for example query configs
 
 ## Code
