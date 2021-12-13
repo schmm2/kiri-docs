@@ -2,10 +2,13 @@
 
 This site will guide you through the process of installing kiri in your environment.
 
+## Step by Step
+
 1. Let's start with the prerequisites. You will need:
 
     - Microsoft Azure Subscription  
     - A Global Administrator Account
+  
 
 2. Click on the button below  
 
