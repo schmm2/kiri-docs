@@ -6,6 +6,16 @@ On the following diagram are all components which will be deployed to Azure. Tho
 
 <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/kiri-architecture.jpg?raw=true">  
 
+## Application Registrations
+
+During the setup, 3 App Registrations will be created.
+
+- svc-kiriapp: Manages the login to kiri
+
+- svc-kiriapi: Grants Access to backend API
+
+- svc-kiriworker: App which is used to interact with tenants for example query configs
+
 ## Code
 
 The kiri project codebase is separated into several repositories.  
