@@ -57,13 +57,23 @@ This site will guide you through the process of installing kiri in your environm
    1. Go to the [Azure Portal](https://portal.azure.com)
    2. Go to Application Registration and search **svc-kiriapp**
 
-   <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/azureportal1.jpg?raw=true">
+   <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/permissionimpersonation1.PNG?raw=true">
 
    3. Select API Permissions
 
-   <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/azureportal1.jpg?raw=true">
+   <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/permissionimpersonation2.PNG?raw=true">
 
-   4. 
+   4. Select organization api, search for **svc-kiriapi**
+
+   <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/permissionimpersonation3.PNG?raw=true">
+
+   5. Select **user_impersonation**
+
+   <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/permissionimpersonation4.PNG.png?raw=true">
+
+   6. Select **Grant for yourdomain**
+
+   <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/permissionimpersonation6.PNG.png?raw=true">
 
 10. You can now Access kiri via the URL in a Webbrowser.
 
