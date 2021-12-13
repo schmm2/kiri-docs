@@ -72,11 +72,11 @@ This site will guide you through the process of installing kiri in your environm
 
       <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/permissionimpersonation4.PNG?raw=true">
 
-   6. Select **Grant for yourdomain**
+   6. Select **Grant admin consnet for yourdomain**
 
       <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/permissionimpersonation6.PNG?raw=true">
 
-10. You can now Access kiri via the URL in a Webbrowser.
+10. You can now Access kiri via the URL in a Webbrowser: <https://SITENAME.azurewebsites.net>
 
 ## Installation issues
 
