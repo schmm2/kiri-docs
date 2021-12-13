@@ -14,7 +14,7 @@ Your kiri installation is running. Let's get you started.
 
 4. Enter a Tenant Name (can be anything), Tenant ID and **svc-kiriworker App ID**.
 
-   <img width=700px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/firststeps3.JPG?raw=true">
+   <img width=500px src="https://github.com/schmm2/kiri-docs/raw/main/docs/img/firststeps3.JPG?raw=true">
 
 5. Select **Grant Permission**
 
